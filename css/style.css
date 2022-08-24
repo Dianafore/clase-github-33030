@@ -13,6 +13,15 @@ h1{
     max-width: 650px;
     margin: 15px;
 }
+.fex-index{
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+}
+.fex-index img{
+    padding: 5px;
+}
+
 /*mobile last*/
 @media (max-width:550px){
     .hola-mundo{
